@@ -123,7 +123,10 @@ overflow: hidden;
 align-items: center;
 margin-left: 100px;
 }
+
 #images_hz img {
 display: inline;
 margin: 20px;
+width:200px; 
+height:200px
 }
