@@ -1,0 +1,55 @@
+.list1 {
+	float: right;
+	color: white;
+	text-align: left;
+	margin-right: 10px;
+}
+
+.clearfix:after {
+content: "";
+display: table;
+clear: both;
+}
+
+.div1 {
+	font-family: Arial Black;
+	display: in-line block;
+	color: hotpink;
+	background-color: yellow;
+  	text-align: center;
+}
+
+.gallery {
+  color: dodgerblue;
+  font-family: Arial;
+  font-style: oblique;
+}
+
+.image {
+   display: inline-block;
+   width: 150px;
+   height: 75px;
+   margin: 50px;
+   border: 3px solid cornflowerblue;
+   vertical-align: middle
+}
+
+#box1 {
+	background-color: #FFC0CB;
+}
+
+#box2 {
+	background-color: #FFE1F0;
+}
+
+#box3 {
+	background-color: #FF69B4;
+}
+
+#box4 {
+	background-color: #FF1493;
+}
+
+#box5{
+	background-color: #C71585;
+}

@@ -1,0 +1,77 @@
+body {
+	background-color: #cffbd0;
+}
+
+#para {
+    text-align: center;
+    font-family: verdana;
+    color: skyblue;
+}
+
+#para1 {
+    text-align: center;
+    font-family: verdana;
+    color: hotpink;
+}
+
+.para2 {
+	text-align: center;
+	font-style: italic;
+    color: green;
+}
+
+.para3 {
+    text-align: center;
+    color: #585858;
+}
+
+.para4 {
+	color: #505050;
+}
+
+.para5 {
+	color: #484848;
+}
+
+.para6 {
+	color: #3498DB;
+}
+
+a:link {
+    color: #f2ee13;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.div1 {
+    width: 500px;
+    height: 50px;
+    color: #3498DB;
+    border: 3px solid #73AD21;
+}
+
+.center-div
+{
+  	margin: 0 auto;
+  	width: 200px;
+  	height: 135px;
+ 	border: 5px solid gray;
+ 	border-radius: 3px;
+}
+
+.div2 {
+    width: 475px;
+    height: 60px;
+    text-align: center;
+    border: 2px dotted red;
+}
